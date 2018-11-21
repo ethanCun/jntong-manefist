@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/ethanCun/jntong-manefist/master/Piglogo%401024.png</string>
+					<string>https://github.com/ethanCun/jntong-manefist/raw/master/1024.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/ethanCun/jntong-manefist/master/1024.png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
